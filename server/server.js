@@ -14,7 +14,7 @@ const port=process.env.PORT || 4000
 connectDB();
 
 
-const allowedOrigins = ['http://localhost:5173']
+const allowedOrigins = ['https://class-assignment-manager.onrender.com']
 
 app.use(cors({
     origin: allowedOrigins,
@@ -38,6 +38,7 @@ app.use('/uploads', express.static('uploads'));
 
 
 app.listen(port,()=>console.log(`server started on Port:${port} `))
+
 
 
 
