@@ -3,7 +3,8 @@ import { createContext, useState } from 'react';
 export const AppContent = createContext();
 
 export const AppContextProvider = ({ children }) => {
-  const backendUrl = ['https://class-assignment-manager-2.onrender.com'];
+const backendUrl = "https://class-assignment-manager-2.onrender.com";
+
 
   const[role, setRole]=useState('');
 
@@ -18,4 +19,5 @@ export const AppContextProvider = ({ children }) => {
     </AppContent.Provider>
   );
 };
+
 
