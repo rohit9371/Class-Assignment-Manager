@@ -89,7 +89,6 @@ If you’d like to connect, collaborate, or discuss opportunities, feel free to 
 
 * 📧 Email: **[rohit383275@gmail.com](mailto:rohit383275@gmail.com)**
 * 💼 GitHub: https://github.com/rohit9371
-* 🔗 LinkedIn: *(Add your LinkedIn link here)*
 
 ---
 
