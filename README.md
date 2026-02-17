@@ -5,6 +5,10 @@ It allows users to add assignments, set deadlines, monitor submission status, an
 
 ---
 
+## Live
+
+URL: https://class-assignment-manager-1.onrender.com/
+
 ## 🛠️ Tech Stack
 
 * **Frontend:** HTML, CSS, JavaScript
